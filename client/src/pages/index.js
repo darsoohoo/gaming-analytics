@@ -11,8 +11,7 @@ const IndexPage = () => (
       <Row>
         <Col>
           <p>
-            This is a Gatsby Starter that I frequently use to get jump started
-            on quick website builds. It includes the following packages:
+            This is has sorting and grouping capabilities:
           </p>
         </Col>
       </Row>
@@ -48,19 +47,6 @@ const IndexPage = () => (
               gatsby-plugin-sass
             </ListGroup.Item>
           </ListGroup>
-        </Col>
-      </Row>
-      <Row>
-        <Col>
-          <p>
-            This starter also includes a navbar that sticks to the top of the
-            screen when the user scrolls past it, and a footer that stays at the
-            bottom of the screen.
-          </p>
-          <p>
-            For more documentation on these packages and how they work, please
-            refer to the pages linked in the list above.
-          </p>
         </Col>
       </Row>
     </Container>
