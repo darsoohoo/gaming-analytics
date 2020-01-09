@@ -1,0 +1,29 @@
+{
+  "name": "gaming-analytics",
+  "version": "1.0.0",
+  "description": "gaming analytics casino report",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darsoohoo/gaming-analytics.git"
+  },
+  "keywords": [
+    "gaming",
+    "analytics"
+  ],
+  "author": "Darren SooHoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darsoohoo/gaming-analytics/issues"
+  },
+  "homepage": "https://github.com/darsoohoo/gaming-analytics#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "concurrently": "^5.0.2"
+  }
+}
