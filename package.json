@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/darsoohoo/gaming-analytics#readme",
   "dependencies": {
+    "create-react-app": "^3.3.0",
     "express": "^4.17.1"
   },
   "devDependencies": {
